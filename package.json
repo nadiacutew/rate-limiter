@@ -1,0 +1,34 @@
+{
+  "name": "kaizenxakamai",
+  "version": "1.0.0",
+  "description": "Advanced rate-limiting and request protection module with 30+ features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "rate-limiting",
+    "ddos-protection",
+    "security",
+    "express-middleware",
+    "api-protection",
+    "firewall",
+    "anti-ddos"
+  ],
+  "author": "XyzenCode",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nadiacutew/rate-limiter"
+  },
+  "bugs": {
+    "url": "https://github.com/nadiacutew/rate-limiter"
+  },
+  "homepage": "https://github.com/nadiacutew/rate-limiter",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
