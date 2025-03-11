@@ -17,6 +17,7 @@
 ```sh
 npm install kaizenxakamai
 ```
+## 📌 Example code
 ```js
 const express = require('express');
 const RateLimiter = require('kaizenxakamai');
